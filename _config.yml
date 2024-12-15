@@ -14,14 +14,15 @@ css:
 
 just_the_docs:  
   # 左侧导航设置  
-  collapse_navigation: true  
+  collapse_navigation: true # 允许菜单项折叠  
   default_layout: "default"  
   aux_links:  
     "GitHub Repository":  
       - url: "https://github.com/Microflow-IO/Microflow-IO.github.io"  
       - external: true  
-  search:  
-    button: true  # 显示顶部搜索按钮  
+  # 自定义菜单  
+  navigation_label: "Documentation" # 左上角导航标题  
+  collection_name: "docs" # 确保文档集合被识别
 
 # 导航顺序  
 defaults:  
