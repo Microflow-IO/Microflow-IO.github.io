@@ -8,4 +8,4 @@ permalink: /docs/faq
 
 # FAQ  
 
-常见问题解答部分。
+
