@@ -1,11 +1,10 @@
-------
-
+---
 layout: default
 title: FAQ-Safety Related
-parent: faq
-nav_order: 2  
-
-------
+parent: FAQ
+nav_order: 6
+toc: true
+---
 
 
 
@@ -16,14 +15,14 @@ nav_order: 2
 <h1 style="font-size: 30px;">MicroFlow Nano</h1>  
 <h2 style="font-size: 50px;">FAQ-Safety Related</h2>
 
+------
   
 
+* Contents  
+{:toc}
 
-[TOC]
 
 ------
-
-
 
 # 🚒Safety Related
 
