@@ -1,11 +1,8 @@
 ------
 
-layout: default  
-
-title: FAQ-Performance and Consumption  
-
-parent: faq  
-
+layout: default
+title: FAQ-Performance and Consumption
+parent: faq
 nav_order: 4  
 
 ------

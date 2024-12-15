@@ -1,11 +1,8 @@
 ------
 
-layout: default  
-
-title: FAQ-Safety Related  
-
-parent: faq  
-
+layout: default
+title: FAQ-Safety Related
+parent: faq
 nav_order: 2  
 
 ------

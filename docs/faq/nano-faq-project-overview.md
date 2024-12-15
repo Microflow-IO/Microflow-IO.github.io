@@ -1,10 +1,7 @@
 ---
-layout: default  
-
-title: FAQ-Project Overview  
-
-parent: faq  
-
+layout: default
+title: FAQ-Project Overview
+parent: faq
 nav_order: 1  
 
 ------

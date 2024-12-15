@@ -1,11 +1,8 @@
 ------
 
-layout: default  
-
-title: FAQ-Before Deployment  
-
-parent: faq  
-
+layout: default
+title: FAQ-Before Deployment
+parent: faq
 nav_order: 5  
 
 ------
