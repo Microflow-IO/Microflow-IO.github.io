@@ -5,10 +5,14 @@ nav_order: 1
 permalink: /  
 ---  
 
-# Welcome to Microflow Documentation 🎉  
-
-Welcome! Explore our guides, blogs, and FAQs with the structured navigation menu on the left.  
-
+# Welcome to Microflow.io 🎉  
+-----
+<br>
+Microflow Nano is a cross-architecture basic data capability. It is a host-based, high-performance, fine-grained, multi-dimensional traffic log governance tool that provides real-time packet forwarding and PCAP playback.
+Microflow.io is a number of open source projects and dashboards built around Nano for attack detection, performance monitoring, data security and other scenarios.
+<br>
+-----
+<br>
 ### Quick Links:  
 - [Blog Section]({{'/docs/blog'|relative_url}})  
 - [FAQ Section]({{'/docs/faq'|relative_url}})  
