@@ -13,8 +13,8 @@ nav_order: 1
 
 <h1 style="font-size: 30px;">MicroFlow Nano</h1>  
 <h2 style="font-size: 50px;">FAQ-Project Overview</h2>
-<br>
-  
+
+------  
 
 * Contents
 {:toc}
