@@ -4,6 +4,12 @@ description: "Your gateway to Microflow knowledge."
 baseurl: "" # 如果部署在子目录，例如 "/docs"，这里设置子目录路径  
 url: "https://Microflow-IO.github.io"  
 
+# Logo file path  
+logo: "/assets/github_microflow_B.png"  
+
+# 可选：调整 logo 样式  
+logo_css: "height: 40px; padding: 5px;"
+
 # 使用 Just the Docs 主题  
 remote_theme: just-the-docs/just-the-docs  
 search_enabled: true  # 启用搜索功能  
