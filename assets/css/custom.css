@@ -36,6 +36,7 @@ th {
   background-color: #f4f4f4;  
 }  
 
+/* 链接样式 */  
 a {  
   color: #0066cc;  
   text-decoration: none;  
@@ -43,4 +44,34 @@ a {
 
 a:hover {  
   text-decoration: underline;  
+}  
+
+/* 目录样式 */  
+#markdown-toc {  
+    border: 1px solid #aaa;  
+    padding: 1.5em;  
+    list-style: none;  
+    display: inline-block;  
+    margin-bottom: 2em;  
+    background-color: #f8f9fa;  
+    border-radius: 4px;  
+    width: auto;  
+    min-width: 200px;  
+}  
+
+#markdown-toc li {  
+    margin-left: 1em;  
+    line-height: 1.5;  
+    margin-bottom: 0.5em;  
+}  
+
+/* 目录链接样式 */  
+#markdown-toc a {  
+    color: #0066cc;  
+    text-decoration: none;  
+}  
+
+#markdown-toc a:hover {  
+    color: #2b8fed;  
+    text-decoration: underline;  
 }
