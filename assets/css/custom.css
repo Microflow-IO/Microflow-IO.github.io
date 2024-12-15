@@ -1,0 +1,46 @@
+/* 全站文本样式 */  
+body {  
+  font-family: "Arial", sans-serif;  
+}  
+
+/* 左侧导航栏样式 */  
+nav {  
+  background-color: #f8f9fa;  
+  border-right: 1px solid #ddd;  
+}  
+
+/* 激活链接颜色 */  
+.active > a {  
+  color: #2b8fed !important;  
+  font-weight: bold;  
+}  
+
+/* 页面标题样式 */  
+h1, h2, h3 {  
+  color: #4a4a4a;  
+}  
+
+/* 表格样式 */  
+table {  
+  width: 100%;  
+  border-collapse: collapse;  
+}  
+
+th, td {  
+  text-align: left;  
+  padding: 10px;  
+  border-bottom: 1px solid #ddd;  
+}  
+
+th {  
+  background-color: #f4f4f4;  
+}  
+
+a {  
+  color: #0066cc;  
+  text-decoration: none;  
+}  
+
+a:hover {  
+  text-decoration: underline;  
+}
