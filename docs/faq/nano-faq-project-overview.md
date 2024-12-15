@@ -17,7 +17,7 @@ nav_order: 1
   
 
 * Contents
-{:TOC}
+{:toc}
 
 ------
 
