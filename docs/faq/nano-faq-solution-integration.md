@@ -1,12 +1,12 @@
 ---
 layout: default
 title: FAQ-Solution Integration
-parent: faq
+parent: FAQ
 nav_order: 6
 toc: true
 ---
 
-*{:toc}*
+{:toc}
 
 
 
