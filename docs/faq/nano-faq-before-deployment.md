@@ -1,11 +1,10 @@
-------
-
+---
 layout: default
 title: FAQ-Before Deployment
-parent: faq
-nav_order: 5  
-
-------
+parent: FAQ
+nav_order: 5
+toc: true
+---
 
 
 
@@ -16,14 +15,14 @@ nav_order: 5
 <h1 style="font-size: 30px;">MicroFlow Nano</h1>  
 <h2 style="font-size: 50px;">FAQ-Before Deployment</h2>
 
+------
   
 
+* Contents  
+{:toc}
 
-[TOC]
 
 ------
-
-
 
 # 🏡Before Deployment
 
