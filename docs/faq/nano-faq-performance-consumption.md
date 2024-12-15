@@ -1,11 +1,10 @@
-------
-
+---
 layout: default
 title: FAQ-Performance and Consumption
-parent: faq
-nav_order: 4  
-
-------
+parent: FAQ
+nav_order: 4
+toc: true
+---
 
 
 
@@ -15,15 +14,15 @@ nav_order: 4
 
 <h1 style="font-size: 30px;">MicroFlow Nano</h1>  
 <h2 style="font-size: 50px;">FAQ-Performance and Consumption</h2>
-
+  
+------
   
 
+* Contents  
+{:toc}
 
-[TOC]
 
 ------
-
-
 
 # 💣Performance and Consumption
 
