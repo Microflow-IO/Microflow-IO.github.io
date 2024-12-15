@@ -1,14 +1,14 @@
 ---
-
 layout: default
-
 title: FAQ-Solution Integration
-
-parent: FAQ
-
-nav_order: 6  
-
+parent: faq
+nav_order: 6
+toc: true
 ---
+
+*{:toc}*
+
+
 
 
 
