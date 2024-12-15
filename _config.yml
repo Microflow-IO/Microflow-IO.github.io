@@ -8,6 +8,10 @@ url: "https://Microflow-IO.github.io"
 remote_theme: just-the-docs/just-the-docs  
 search_enabled: true  # 启用搜索功能  
 
+# 自定义 CSS 样式  
+css:  
+  - assets/css/custom.css
+
 just_the_docs:  
   # 左侧导航设置  
   collapse_navigation: true  
