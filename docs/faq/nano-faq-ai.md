@@ -1,9 +1,9 @@
----
-layout: default
-title: FAQ-Nano and AI
-parent: faq
+---  
+layout: default  
+title: FAQ-Nano and AI  
+parent: FAQ  
 nav_order: 3  
-----
+---  
 
 
 
