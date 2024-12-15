@@ -1,11 +1,14 @@
-------
+---
 
 layout: default
+
 title: FAQ-Solution Integration
+
 parent: faq
+
 nav_order: 6  
 
-------
+---
 
 
 
