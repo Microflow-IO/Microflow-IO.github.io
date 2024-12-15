@@ -11,8 +11,8 @@ nav_order: 1
 
   
 
-<h1 style="font-size: 30px;">MicroFlow Nano</h1>  
-<h2 style="font-size: 50px;">FAQ-Project Overview</h2>
+<h1 style="font-size: 50px;">MicroFlow Nano</h1>  
+<h2 style="font-size: 30px;">FAQ-Project Overview</h2>
 
 ------  
 
@@ -20,8 +20,6 @@ nav_order: 1
 {:toc}
 
 ------
-
-
 
 
 # 🎏Project Overview
