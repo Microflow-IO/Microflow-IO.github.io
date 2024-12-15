@@ -6,10 +6,6 @@ nav_order: 6
 toc: true
 ---
 
-{:toc}
-
-
-
 
 
 <img src="https://github.com/Microflow-IO/microflow-nano/blob/main/docs/github_microflow_B.png" alt="logo" style="float:left; margin-right:10px;" />
@@ -21,8 +17,9 @@ toc: true
 
   
 
+* Contents  
+{:toc}
 
-[TOC]
 
 ------
 
