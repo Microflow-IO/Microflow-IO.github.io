@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ-Project Overview
-parent: faq
+parent: FAQ
 nav_order: 1  
 ---
 
@@ -13,11 +13,11 @@ nav_order: 1
 
 <h1 style="font-size: 30px;">MicroFlow Nano</h1>  
 <h2 style="font-size: 50px;">FAQ-Project Overview</h2>
-
+<br>
   
 
-
-[TOC]
+* Contents
+{:TOC}
 
 ------
 
